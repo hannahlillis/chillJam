@@ -41,7 +41,7 @@ $ mocha test/integration/APICall.jss
 - We spent a lot of time learning how to properly test and mock JS promises
 - We ended up with a high test coverage so can be confident our code works as intended
 
-__What I would do differently__
+### What I would do differently
 
 If I were to do this project again, I would ensure we fully TDD the product. Our end test coverage is high but unfortunately we didn't always test first and use this to drive the development. This was due to time constraints not only to finish the project, but also to learn how to properly test in a new language. 
 
