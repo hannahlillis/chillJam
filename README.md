@@ -38,6 +38,12 @@ $ mocha test/integration/APICall.jss
 
 
 - As is often the case when learning new technologies, true Test Driven Development can be tricky, however, once the core functionality was in place we worked hard to test it as thoroughly as possible.
+- We spent a lot of time learning how to properly test and mock JS promises
+- We ended up with a high test coverage so can be confident our code works as intended
+
+__What I would do differently__
+
+If I were to do this project again, I would ensure we fully TDD the product. Our end test coverage is high but unfortunately we didn't always test first and use this to drive the development. This was due to time constraints not only to finish the project, but also to learn how to properly test in a new language. 
 
 ### Learnings
 
